@@ -1,0 +1,10 @@
+# app-ads.txt for Yandex Direct / partner.yandex.ru
+# Generated from partner cabinet -> Settings -> General -> app-ads.txt.
+# REPLACE the placeholder line below with the exact line downloaded from
+# https://partner.yandex.ru (it carries your publisher/cert values).
+# Example format:
+#   ads.yandex.com, PUBLISHER_ID, DIRECT, CERT_ID
+# ads.yandex.ru, PUBLISHER_ID, DIRECT, CERT_ID
+
+# ads.yandex.com, 100000000, DIRECT, 0
+# ads.yandex.ru, 100000000, DIRECT, 0
